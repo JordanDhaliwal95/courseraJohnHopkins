@@ -1,0 +1,18 @@
+@media only screen and (min-width : 768px) {
+    .navbar-collapse.collapse {
+         display: none!important;
+     }
+ }
+ @media only screen and (max-width : 768px) {
+    .nav>li {
+         text-align: center;
+     }
+ }
+
+ .container.background-grey {
+    background-color: #e2e2e2;
+}
+
+p {
+    font-size: 1.5em;
+}
